@@ -32,15 +32,6 @@ I have made this into a Jekyll Theme. Checkout the live demo [here](https://onli
 
 Change all the details from one place: ``_data/data.yml``
 
-## To preview/edit localy with docker
-
-```sh
-docker-compose up
-```
-
-*docker-compose.yml* file is used to create a container that is reachable under http://localhost:4000.
-Changes *_data/data.yml* will be visible after a while.
-
 ## Skins
 
 There are 6 color schemes available:
@@ -52,16 +43,3 @@ There are 6 color schemes available:
 | Berry | Orange | Ceramic |
 |---------|---------|---------|
 | <img src="https://online-cv.webjeda.com/assets/images/berry.jpg" width="300"/> | <img src="https://online-cv.webjeda.com/assets/images/orange.jpg" width="300"/> | <img src="https://online-cv.webjeda.com/assets/images/ceramic.jpg" width="300"/> |
-
-## Credits
-
-Thanks to [Nelson Estevão](https://github.com/nelsonmestevao) for all the [contributions](https://github.com/sharu725/online-cv/commits?author=nelsonmestevao).
-
-Thanks to [t-h-e(sfrost)](https://github.com/t-h-e) for all the [contributions](https://github.com/sharu725/online-cv/commits?author=t-h-e).
-
-Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com).
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=sharu725/online-cv&type=Date)](https://star-history.com/#sharu725/online-cv&Date)
-
