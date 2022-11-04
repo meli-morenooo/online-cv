@@ -46,7 +46,7 @@ education:
         time: 2021 - Presente
 
 experiences:
-    title: Experiences
+    title: Experiencia Laboral
     info:
       - role: Tutor Taller de Programación
         time: 2022 - Present
@@ -60,6 +60,29 @@ experiences:
           Las participantes se sintieron a gusto y con ganas de más por lo que para
           mediados de octubre organice otro taller pero por mi parte, en las 
           instalaciones del Instituto donde estudio.
+
+      - role: Pasantía
+        time: 2021 - 2021
+        company: EIKON Computación
+        details: |
+          - Ensamblado de CPU y monitores.
+          - Instalación y configuración de Sistemas Operativos.
+
+      - role: Soldado Voluntario
+        time: 2015 - 2020
+        company: EIKON Computación
+        details: |
+          - Tareas administrativas.
+          - Mantenimiento y control sistemas de cámaras.
+          - Instalación de Sistemas Operativos.
+          - Servicios de guardia.
+          - Mantenimiento de instalaciones, armamento y equipamiento militar.
+    title: Experiencia Laboral
+    info:
+      - role: Programa ONE - Oracle Next Education
+        time: 07/2022 - Present
+        company: Alura
+        details: |
 
 skills:
     title: Skills
