@@ -65,22 +65,22 @@ experiences:
         time: 2021 - 2021
         company: EIKON Computación
         details: |
-        - Ensamblado de CPU y monitores.
-        - Instalación y configuración de Sistemas Operativos.
+          - Ensamblado de CPU y monitores.
+          - Instalación y configuración de Sistemas Operativos.
 
       - role: Soldado Voluntario
         time: 2015 - 2020
         company: Ejército Argentino
         details: |
-        - Tareas administrativas.
-        - Mantenimiento y control sistemas de cámaras.
-        - Instalación de Sistemas Operativos.
-        - Servicios de guardia.
-        - Mantenimiento de instalaciones, armamento y equipamiento militar.
+          - Tareas administrativas.
+          - Mantenimiento y control sistemas de cámaras.
+          - Instalación de Sistemas Operativos.
+          - Servicios de guardia.
+          - Mantenimiento de instalaciones, armamento y equipamiento militar.
 
 skills:
     title: Skills
-    
+
     toolset:
       - name: Python
         level: 80%
