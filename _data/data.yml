@@ -46,42 +46,20 @@ education:
         time: 2021 - Presente
 
 experiences:
-    title: Cursos / Capacitaciones
-    info:
-      - role: Programa ONE - Oracle Next Education
-        time: 2022 - Presente
-        company: Alura
-        details: dasdas
-
-      - role: Marketing Digital
-        time: 2022 - 2022
-        company:  Crece con Google y Junior Achievement
-        details: sadaa
-      
-      - role: Segunda etapa del Plan Argentina Programa&#58; &#35;YoProgramo
-        time: 2022 - 2022
-        company: Amazon, London
-        details: dsadas
-
-
-
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Tutor Taller de Programación
+        time: 2022 - Present
+        company: Cluster Tecnológico Río Cuarto
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Se trata de un evento-taller llamado "Programá como chica" realizado en 
+          la ciudad de Río Cuarto y organizado por Cluster, con el objetivo de 
+          fomentar la inserción de las mujeres en el mundo IT.
+          El rol que desempeñé fue de tutor/mentor para ayudar a las participantes 
+          en cualquier duda que pueda surgir.
+          Las participantes se sintieron a gusto y con ganas de más por lo que para
+          mediados de octubre organice otro taller pero por mi parte, en las 
+          instalaciones del Instituto donde estudio.
 
 skills:
     title: Skills
